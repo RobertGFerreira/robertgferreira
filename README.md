@@ -1,51 +1,42 @@
-<h1 align="left">
-### Olá, sou o Robert Ferreira 👋</h1>
+## Robert Ferreira — Flutter • Python • IoT 👋
 
-###
+Crio produtos do mundo real conectando apps Flutter, sensores/atuadores (ESP32, Raspberry Pi, Arduino) e serviços em Python para gerar impacto no agro e na indústria. Meu foco é transformar dados de campo em decisões e automações seguras, escaláveis e fáceis de usar.
 
-<p align="left">Engenheiro de Software com especialização em Engenharia de Dados, apaixonado por tecnologia aplicada ao agronegócio, automação e análise de dados.<br><br>Atuo com desenvolvimento mobile usando Flutter e integração com IoT (ESP32, Raspberry Pi, Arduino), criando soluções reais como rastreabilidade de produção agrícola, controle de acesso RFID e abastecimento interno automatizado.</p>
+— Disponível para oportunidades em: Flutter (Mobile), Python (Back/Data) e IoT.
 
-###
+## Destaques rápidos
 
-<h2 align="left">About me</h2>
+- Flutter + IoT: apps móveis integrados com hardware (ESP32, Raspberry Pi, Arduino)
+- Python para dados e serviços: coleta, processamento e APIs para dispositivos e apps
+- Agro/Indústria: rastreabilidade, controle de acesso (RFID) e abastecimento interno automatizado
 
-###
+## Projetos em destaque
 
-<p align="left">✨ Criando soluções que conectam tecnologia e agronegócio  <br>🌱 Atualmente desenvolvendo sistemas IoT para o campo  <br>🎯 Objetivo: transformar dados em decisões eficientes  <br>🧠 Fato curioso: adoro trabalhar com integração de sensores e apps mobile</p>
+- Buscador de Cidades Próximas (Python)  
+  Repositório: https://github.com/RobertGFerreira/Buscador_cidades_proximas  
+  Descrição: solução em Python para identificar cidades próximas a um conjunto inicial de localizações usando a API pública do Nominatim (OpenStreetMap) via biblioteca geopy.  
+  Stack: Python, geopy, OpenStreetMap (Nominatim)
 
-###
+- Casos reais que já desenvolvi  
+  • Rastreabilidade de produção agrícola  
+  • Controle de acesso com RFID  
+  • Abastecimento interno automatizado
 
-<h2 align="left">I code with</h2>
+## Como trabalho
 
-###
+- Produto primeiro: foco em usabilidade, confiabilidade e métricas
+- Integração ponta a ponta: do sensor ao app, com logs e observabilidade
+- Qualidade: versionamento, revisão de código e testes sempre que aplicável
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-</div>
+## Stack principal
 
-###
+- Mobile: Flutter (Dart)
+- IoT/Hardware: ESP32, Raspberry Pi, Arduino, C/C++
+- Python/Data: Python, Jupyter, NumPy, PostgreSQL
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/robert-guilherme-ferreira" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
+## Conecte-se
 
-###
+- LinkedIn: https://www.linkedin.com/in/robert-guilherme-ferreira
+
+Se quiser saber mais sobre algum projeto ou discutir uma vaga, me chama no LinkedIn — respondo rápido.
 
